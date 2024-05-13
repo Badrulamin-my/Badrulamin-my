@@ -5,9 +5,9 @@ Self Learning | Data Science | Fullstack Developer
 --------------------------------------------------
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🖥️  See my portfolio at [MyPortfolio](http://Comingsoon.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://badrulamin.netlify.app/))
 * 🚀  I'm currently working on [Health Care Analysis](http://https://github.com/Badrulamin-my/Health-Care-project)
-* 🧠  I'm learning R | Js | C# | PostgreSQL | React | Power BI |
+* 🧠  I'm learning R | Js | C# | PostgreSQL | React | Power BI | Three.js
 * ⚡  I Am Chef, Tell Everyone
 
 ### Skills
