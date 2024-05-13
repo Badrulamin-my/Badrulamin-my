@@ -31,19 +31,6 @@ Self Learning | Data Science | Fullstack Developer
 
 <a href="https://github.com/Badrulamin-my" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badrulamin-my&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
- ![snake animation](https://github.com/Badrulamin-my/Badrulamin-my/blob/output/github-contribution-grid-snake2.svg)
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Badrulamin-my)/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Badrulamin-my/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
     
 ### Project I created
