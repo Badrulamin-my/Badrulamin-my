@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51cfad53-234c-4c94-b14c-afad3278b97a/deploy-status)](https://app.netlify.com/sites/badrulamin/deploys)
 <img align="right" src="https://komarev.com/ghpvc/?username=Badrulamin-my">
 
 <h1 align="center">
